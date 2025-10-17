@@ -42,7 +42,7 @@ I'm **Leen**, a passionate developer and tech student who loves exploring how th
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:leenalmahth@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=leenalmahth@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
