@@ -79,7 +79,15 @@ I'm **Leen**, a curious developer and tech student passionate about low-level pr
 
 ### 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,vim,vscode,cmake,github" alt="Skills" />
+  <img alt="C" src="https://skillicons.dev/icons?i=c" width="40" height="40" /> <br>C
+  <img alt="C++" src="https://skillicons.dev/icons?i=cpp" width="40" height="40" /> <br>C++
+  <img alt="Bash" src="https://skillicons.dev/icons?i=bash" width="40" height="40" /> <br>Bash
+  <img alt="Linux" src="https://skillicons.dev/icons?i=linux" width="40" height="40" /> <br>Linux
+  <img alt="Git" src="https://skillicons.dev/icons?i=git" width="40" height="40" /> <br>Git
+  <img alt="Vim" src="https://skillicons.dev/icons?i=vim" width="40" height="40" /> <br>Vim
+  <img alt="VSCode" src="https://skillicons.dev/icons?i=vscode" width="40" height="40" /> <br>VSCode
+  <img alt="CMake" src="https://skillicons.dev/icons?i=cmake" width="40" height="40" /> <br>CMake
+  <img alt="GitHub" src="https://skillicons.dev/icons?i=github" width="40" height="40" /> <br>GitHub
 </p>
 
 ---
@@ -96,25 +104,18 @@ I'm **Leen**, a curious developer and tech student passionate about low-level pr
 
 ---
 
-<!-- Uncomment when ready -->
-<!-- ### 🧩 42 Amman Progress  
-<p align="center">
-  <img src="https://badge.mediaplus.ma/darkblue/leena" alt="42 Amman Badge" />
-</p>
---- -->
-
 ### 🌍 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/leen-almahthi-620629331" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" /> 
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:leenalmahth@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/LeenAlmahthi">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
   </a>
 </p>
 
