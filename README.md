@@ -141,6 +141,7 @@ I'm **Leen**, a curious developer and tech student passionate about low-level pr
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LeenAlmahthi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/LeenAlmahthi?label=Followers&style=social" alt="followers" />
 </p>
 
