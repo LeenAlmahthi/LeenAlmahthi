@@ -80,25 +80,16 @@ I'm **Leen**, a curious developer and tech student passionate about low-level pr
 ### 🛠️ Languages & Tools  
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=c" width="50" /><br>C</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=cpp" width="50" /><br>C++</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=bash" width="50" /><br>Bash</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=linux" width="50" /><br>Linux</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=git" width="50" /><br>Git</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=vim" width="50" /><br>Vim</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=vscode" width="50" /><br>VSCode</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=make" width="50" /><br>Makefile</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://skillicons.dev/icons?i=github" width="50" /><br>GitHub</a>
+  <img src="https://skillicons.dev/icons?i=c" width="50" /><br>C
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" /><br>C++
+  <img src="https://skillicons.dev/icons?i=bash" width="50" /><br>Bash
+  <img src="https://skillicons.dev/icons?i=linux" width="50" /><br>Linux
+  <img src="https://skillicons.dev/icons?i=git" width="50" /><br>Git
+  <img src="https://skillicons.dev/icons?i=vim" width="50" /><br>Vim
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" /><br>VSCode
+  <img src="https://skillicons.dev/icons?i=make" width="50" /><br>Makefile
+  <img src="https://skillicons.dev/icons?i=github" width="50" /><br>GitHub
 </p>
-
 ---
 
 ### 📊 GitHub Analytics  
