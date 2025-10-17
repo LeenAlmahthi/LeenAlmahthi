@@ -7,7 +7,7 @@
 
 ---
 
-### 🌙 About Me
+### 🌠 About Me
 
 I'm **Leen**, a developer and tech student passionate about low-level programming and elegant code design.
 
@@ -61,6 +61,7 @@ I'm **Leen**, a developer and tech student passionate about low-level programmin
   </a>
   &nbsp;<strong>GitHub</strong>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
 ---
 
 ### 📊 GitHub Analytics
