@@ -85,26 +85,6 @@ I'm a **Computer Information Systems graduate** from Al-Balqa Applied University
 * Built frontend interfaces using HTML, CSS, JavaScript, jQuery, Bootstrap, and Tailwind
 * Connected frontend applications to backend APIs using AJAX
 * Deployed backend and frontend applications on IIS and configured IIS security settings
-
----
-
-### GitHub Stats
-
-### GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LeenAlmahthi&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Leen's GitHub Stats"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeenAlmahthi&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Leen's Top Languages"
-    height="170"
-  />
-</p>
-
 ---
 
 ### Let's Connect
