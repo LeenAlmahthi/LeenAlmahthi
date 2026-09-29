@@ -90,6 +90,8 @@ I'm a **Computer Information Systems graduate** from Al-Balqa Applied University
 
 ### GitHub Stats
 
+### GitHub Stats
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=LeenAlmahthi&show_icons=true&theme=tokyonight&hide_border=true"
