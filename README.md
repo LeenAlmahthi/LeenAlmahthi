@@ -91,8 +91,16 @@ I'm a **Computer Information Systems graduate** from Al-Balqa Applied University
 ### GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LeenAlmahthi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeenAlmahthi&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=LeenAlmahthi&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Leen's GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeenAlmahthi&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Leen's Top Languages"
+    height="170"
+  />
 </p>
 
 ---
